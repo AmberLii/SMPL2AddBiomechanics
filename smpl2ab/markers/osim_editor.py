@@ -8,7 +8,7 @@ import trimesh
 import nimblephysics as nimble
 
 from aitviewer.renderables.meshes import Meshes
-from aitviewer.renderables.osim import OSIMSequence
+# from aitviewer.renderables.osim import OSIMSequence
 from aitviewer.viewer import Viewer
 
 from smpl2ab.markers.marker_transfer import SSMarkerTransfer

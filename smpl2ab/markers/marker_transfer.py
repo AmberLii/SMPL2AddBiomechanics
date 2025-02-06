@@ -10,8 +10,8 @@ import pickle as pkl
 from aitviewer.renderables.meshes import Meshes
 from aitviewer.viewer import Viewer
 from aitviewer.models.smpl import SMPLLayer
-from aitviewer.renderables.markers import Markers
-from aitviewer.utils.colors import vertex_colors_from_weights
+# from aitviewer.renderables.markers import Markers
+# from aitviewer.utils.colors import vertex_colors_from_weights
 
 from smpl2ab.markers.mapping import apply_mapping, apply_mapping_barycentric, compute_mapping, compute_mapping_barycentric
 from smpl2ab.utils.osso import get_osso_submesh_util 

@@ -6,3 +6,5 @@ imgui.ini
 *.zip
 *.json
 *.trc
+OSSO/
+mesh/

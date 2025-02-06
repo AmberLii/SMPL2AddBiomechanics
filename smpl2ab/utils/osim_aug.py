@@ -5,7 +5,7 @@ import trimesh
 import nimblephysics as nimble
 import numpy as np
 
-from aitviewer.renderables.osim import OSIMSequence
+# from aitviewer.renderables.osim import OSIMSequence
 from aitviewer.viewer import Viewer
 
 import config as cg
